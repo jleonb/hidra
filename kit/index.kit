@@ -1,0 +1,414 @@
+<!doctype html>
+<html>
+
+<head>
+
+	<!-- @include head.kit -->
+	<link href="./css/ihover.min.css" rel="stylesheet">
+	<link href="./css/lightbox.min.css" rel="stylesheet">
+
+	<title>Hidra</title>
+
+</head>
+
+<body>
+	<!-- Main container -->
+	<div class="page-container">
+
+		<!-- bloc-0 -->
+		<!-- @include menu.kit -->
+		<!-- bloc-0 END -->
+
+		<!-- bloc-1 -->
+		<div class="bloc b-parallax  bg-home l-bloc" id="bloc-1">
+			<div class="container bloc-sm">
+				<div class="row">
+					<div class="col-sm-8">
+						<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+							<!-- Indicators -->
+							<ol class="carousel-indicators">
+								<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="4"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="5"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="6"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="7"></li>
+							</ol>
+
+							<!-- Wrapper for slides -->
+							<div class="carousel-inner" role="listbox">
+								<div class="item active">
+									<a href="bombas.html"><img src="img/slider/_bombas.png" alt="imagen"></a>
+								</div>
+								<div class="item">
+									<a href="filtros.html"><img src="img/slider/_filtros.png" alt="imagen"></a>
+								</div>
+								<div class="item">
+									<a href="valvulas.html"><img src="img/slider/_valvulas.png" alt="imagen"></a>
+								</div>
+								<div class="item">
+									<a href="riego-agricola.html"><img src="img/slider/_riego-agricola.png" alt="imagen"></a>
+								</div>
+								<div class="item">
+									<a href="riego-areas-verdes.html"><img src="img/slider/_riego-areas-verdes.png" alt="imagen"></a>
+								</div>
+								<div class="item">
+									<a href="tuberia.html"><img src="img/slider/_tuberias.png" alt="imagen"></a>
+								</div>
+								<div class="item">
+									<a href="control.html"><img src="img/slider/_control.png" alt="imagen"></a>
+								</div>
+							</div>
+
+							<!-- Controls -->
+							<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+								<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<a href="catalogo.html"><img src="img/lateral-catalogo.jpg" class="img-responsive center-block"></a>
+						<a onclick="scrollToTarget('#bloc-c1')"><img src="img/lateral-transporte.jpg" class="img-responsive center-block"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- bloc-1 END -->
+
+		<!-- bloc-2 -->
+		<div class="bloc b-parallax bg-home tc-olive-drab-7 bgc-olive-drab-7" id="bloc-2">
+			<div class="container bloc-sm2">
+				<div class="row">
+					<div class="col-sm-2  col-xs-6 text-center">
+						<h4 class="text-center mg-sm tc-olive-drab-7 ">
+							Riego Tecnificado Agrícola
+						</h4>
+						<div class="ih-item circle effect6 scale_up">
+							<a href="#" data-toggle="modal" data-target="#agricola">
+							<div class="img center-block mg-md img-responsive"><img src="img/riego_agricola.png" alt="img"></div>
+								<div class="info text-center">
+									<h3>Riego Tecnificado Agrícola</h3>
+									<!-- <p>Description goes here</p> -->
+								</div>
+							</a>
+						</div>
+						<!-- <img src="img/riego_agricola.png" class="img-responsive center-block mg-md" /> -->
+						<!--
+				<p class="text-justify ">
+					Desarrollamos el diseño e instalamos su sistema de riego tecnificado, para cualquier tipo de cultivo, nuestra experiencia esta basada en mas de 12.000 HAS diseñadas, le ofrecemos acompañarlo en el desarrollo de todo su proyecto. Riego por gote, riego por aspersión, riego por gravedad, control de heladas entre otros.
+				</p>
+-->
+					</div>
+					<div class="col-sm-2 col-xs-6  text-center ">
+						<h4 class="text-center mg-sm tc-olive-drab-7 ">
+							Riego de Areas Verdes
+						</h4>
+						<div class="ih-item circle effect6 scale_up">
+							<a href="#" data-toggle="modal" data-target="#verdes">
+							<div class="img center-block mg-md img-responsive"><img src="img/riego_areasverdes.png" alt="img"></div>
+								<div class="info text-center">
+									<h3>Riego de Areas Verdes</h3>
+									<!-- <p>Description goes here</p> -->
+								</div>
+							</a>
+						</div>
+						<!-- <img src="img/riego_areasverdes.png" class="img-responsive center-block mg-md" /> -->
+						<!--
+				<p class="text-justify ">
+					Diseñamos e instalamos sistema de riego eficiente para su área verde, entregando las mejores soluciones técnicas, las cuales le garantizan una eficiente utilización de sus recursos hídricos, siempre utilizando los mejores materiales y al mejor precio. Riego para parques, residencial, plazas, etc.
+				</p>
+-->
+					</div>
+					<div class="col-sm-2  col-xs-6 text-center">
+						<h4 class="mg-sm text-center tc-olive-drab-7 ">
+							Diseño de Equipos de Riego
+						</h4>
+						<div class="ih-item circle effect6 scale_up">
+							<a href="#" data-toggle="modal" data-target="#diseno">
+							<div class="img center-block mg-md img-responsive"><img src="img/diseno.png" alt="img"></div>
+								<div class="info text-center">
+									<h3>Diseño de Equipos de Riego</h3>
+									<!-- <p>Description goes here</p> -->
+								</div>
+							</a>
+						</div>
+						<!-- <img src="img/diseno.png" class="img-responsive center-block mg-md" /> -->
+						<!--
+				<p class="text-justify ">
+					Realizamos diseños de riego tecnificado agrícola y de áreas verdes, modificaciones o restructuraciones de sus sitemas de riego. Para el área agrícola trabajamos con softwares de cálculo hidráulico y de dibujo tecnico, lo que nos permite entregar memorias de cálculo, planos y todos los antecedentes necesarios para realizar la instalación del sistema o una presentación para la Ley de Riego. Riegos modulares, conducciones de agua, cálculo de riego, impulsiones, sitemas de bombeo.
+				</p>
+-->
+					</div>
+					<div class="col-sm-2 col-xs-6  text-center">
+						<h4 class="mg-sm text-center tc-olive-drab-7 ">
+							Sistemas de Bombeo
+						</h4><br>
+						<div class="ih-item circle effect6 scale_up">
+							<a href="#">
+							<div class="img center-block mg-md img-responsive"><img src="img/bombeo.png" alt="img"></div>
+								<div class="info text-center">
+									<h3>Sistemas de Bombeo</h3>
+									<!-- <p>Description goes here</p> -->
+								</div>
+							</a>
+						</div>
+						<!-- <img src="img/bombeo.png" class="img-responsive center-block mg-md" /> -->
+						<!--
+				<p class=" text-justify">
+					Ofrecemos el servicio de instalación hidráulica y eléctrica de bombas, además de realizar la mantención a sus equipos de bombeo consistente en cambio de sellos mecánicos, rodamientos y bobinado de motores.
+				</p>
+-->
+					</div>
+					<div class="col-sm-2 col-xs-6  text-center">
+						<h4 class="mg-sm text-center tc-olive-drab-7 ">
+							Filtrado de aguas
+						</h4><br>
+						<div class="ih-item circle effect6 scale_up">
+							<a href="#">
+							<div class="img center-block mg-md img-responsive"><img src="img/filtrado.png" alt="img"></div>
+								<div class="info text-center">
+									<h3>Filtrado de aguas</h3>
+									<!-- <p>Description goes here</p> -->
+								</div>
+							</a>
+						</div>
+						<!-- <img src="img/filtrado.png" class="img-responsive center-block mg-md" /> -->
+						<!--
+				<p class=" text-justify">
+					Ofrecemos el sistema de filtrado de aguas para uso agrícola, como domiciliario. En el área agrícola trabajamos con filtros de arena, anilla, malla, de las mejores marcas, realizando la instalación por personal calificado.
+				</p>
+-->
+					</div>
+					<div class="col-sm-2  col-xs-6  text-center">
+						<h4 class="mg-sm text-center tc-olive-drab-7 ">
+							Mantenciones
+						</h4><br>
+						<div class="ih-item circle effect6 scale_up">
+							<a href="#">
+							<div class="img center-block mg-md img-responsive"><img src="img/mantenciones.png" alt="img"></div>
+								<div class="info text-center h3-especial">
+									<h3>Mantención de equipos</h3>
+									<!-- <p>Description goes here</p> -->
+								</div>
+							</a>
+						</div>
+						<!-- <img src="img/mantenciones.png" class="img-responsive center-block mg-md" /> -->
+						<!--
+				<p class=" text-justify">
+					Realizamos las mantenciones preventivas o reparaciones de sus sistemas de riego, con la finalidad de aumentar su vida útil y mantener sus espacios en excelentes condiciones.
+				</p>
+-->
+					</div>
+				</div>
+			</div>
+			<br>
+			
+		</div>
+		<!-- bloc-2 END -->
+
+		<!-- bloc-3 -->
+		<!--
+<div class="bloc bgc-white bg-slider l-bloc" id="bloc-3">
+	<div class="container bloc-md">
+		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="mg-md  text-center tc-green-ryb">
+					CONOCE NUESTRO CATÁLOGO
+				</h3>
+				<div class="text-center">
+					<a href="catalogo.html" class="btn  btn-lg btn-green-ryb"><span class="fa fa-list-alt icon-white icon-spacer"></span> ACÁ</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+-->
+		<!-- bloc-3 END -->
+
+		<!-- bloc-5 -->
+		<!-- <div class="bloc l-bloc bgc-white" id="bloc-5">
+			<div class="container bloc-md">
+				<div class="row">
+					<h3 class="text-center">DESPACHO DE MATERIALES A CHILE</h3>
+					<div class="col-md-12 text-center">
+						<img src="img/logos/cargo/bluex.png" alt="logo">
+						<img src="img/logos/cargo/chilexpress.jpg" alt="logo">
+						<img src="img/logos/cargo/correos.jpg" alt="logo">
+						<img src="img/logos/cargo/litcargo.jpg" alt="logo">
+						<img src="img/logos/cargo/pullman.jpg" alt="logo">
+						<img src="img/logos/cargo/starken.png" alt="logo">
+					</div>
+				</div>
+			</div>
+		</div> -->
+		<!-- bloc-5 END -->
+
+		<!-- bloc-6 -->
+		<div class="bloc bg-testimonios b-parallax tc-olive-drab-7 bgc-white" id="bloc-6">
+			<div class="container bloc-lg">
+				<div class="row">
+					<h3 class="text-center tc-white"><span>LO QUE DICEN NUESTROS CLIENTES</span></h3>
+					<BR></BR>
+					<div class="col-xs-12 col-md-8 col-md-offset-2">
+						<!--				<div class="quote"><i class="fa fa-quote-left fa-4x"></i></div>-->
+						<div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
+							<!-- Carousel indicators -->
+							<ol class="carousel-indicators">
+								<li data-target="#fade-quote-carousel" data-slide-to="0"></li>
+								<li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+								<li data-target="#fade-quote-carousel" data-slide-to="2" class="active"></li>
+								<li data-target="#fade-quote-carousel" data-slide-to="3"></li>
+								<li data-target="#fade-quote-carousel" data-slide-to="4"></li>
+								<li data-target="#fade-quote-carousel" data-slide-to="5"></li>
+							</ol>
+							<!-- Carousel items -->
+							<div class="carousel-inner">
+								<div class="item">
+									<blockquote>
+										<!-- <p class="tc-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p> -->
+									</blockquote>
+								</div>
+								<div class="item">
+									<blockquote>
+										<!-- <p class="tc-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p> -->
+									</blockquote>
+								</div>
+								<div class="active item">
+
+									<blockquote>
+										<!-- <p class="tc-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p> -->
+									</blockquote>
+								</div>
+								<div class="item">
+
+									<blockquote>
+										<!-- <p class="tc-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p> -->
+									</blockquote>
+								</div>
+								<div class="item">
+
+									<blockquote>
+										<!-- <p class="tc-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p> -->
+									</blockquote>
+								</div>
+								<div class="item">
+									<!--                        <div class="profile-circle" style="background-color: rgba(77,5,51,.2);"></div>-->
+									<blockquote>
+										<!-- <p class="tc-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p> -->
+									</blockquote>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- bloc-6 END -->
+
+
+		<!-- Bloc Group -->
+
+			<!-- bloc-0 -->
+			<div class="bloc l-bloc bg-contacto b-parallax" id="bloc-c1">
+				<div class="container bloc-lg">
+					<div class="row">
+						<div class="col-sm-6">
+							<h3 class="text-center mg-lg"><span>CONTACTO</span></h3>
+							<form class="form-horizontal" name="commentform" method="post" action="contacto.php">
+								<div class="form-group">
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<span class="input-group-addon"><i class="fa fa-user fa-fw" aria-hidden="true"></i></span>
+										<input class="form-control" type="text" id="nombre" name="nombre" placeholder="nombre" />
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<span class="input-group-addon"><i class="fa fa-building fa-fw" aria-hidden="true"></i></span>
+										<input class="form-control" type="text" id="empresa" name="empresa" placeholder="empresa" />
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<span class="input-group-addon"><i class="fa fa-phone fa-fw" aria-hidden="true"></i></span>
+										<input class="form-control" type="tel" id="telefono" name="telefono" placeholder="teléfono" />
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<span class="input-group-addon"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i></span>
+										<input type="email" class="form-control" id="email" name="email" placeholder="email" />
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<span class="input-group-addon"><i class="fa fa-edit fa-fw" aria-hidden="true"></i></span>
+										<textarea rows="6" class="form-control" id="comments" name="comments" placeholder="consulta o comentario"></textarea>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-md-12">
+										<button id="send_btn" type="submit" value="Submit" class="btn btn-custom pull-right">Enviar</button>
+									</div>
+								</div>
+							</form>
+
+						</div>
+						<div class="col-sm-6">
+							<h3 class="text-center mg-lg"><span>DESPACHO DE MATERIALES A TODO CHILE</span></h3>
+							<div class="row">
+								<div class="col-sm-6">
+									<img src="img/camion.png" alt="" class="img-responsive center-block">
+								</div>
+								<div class="col-sm-6">
+									<img src="img/logos/cargo/empresas_cargo.jpg" alt="" class="img-responsive center-block">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- bloc-0 END -->
+
+
+
+		<!-- Bloc Group END -->
+
+
+		<!-- Footer Group -->
+		<!-- @include footer.kit -->
+		<!-- Footer Group END -->
+
+		<!-- @include modals.kit -->
+
+	</div>
+	<!-- Main container END -->
+
+	<!-- JavaScript -->
+	<!-- @include javascript.kit -->
+	<script>
+		cssSlidy();
+	</script>
+	<script>
+			$("#bloc-c1").click(function() {
+		$('html, body').animate({
+		scrollTop: $("#bloc-c1").offset().top
+		}, 1500);
+		});
+		</script>
+	<!-- JavaScript END -->
+
+	<script src="js/lightbox.min.js"></script>
+</body>
+
+<!-- Google Analytics -->
+
+<!-- Google Analytics END -->
+
+</html>
