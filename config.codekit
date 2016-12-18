@@ -2424,6 +2424,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/noticias\/noticia_cambio_codigo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118662,
+		"inputAbbreviatedPath": "\/img\/noticias\/noticia_cambio_codigo.jpg",
+		"outputAbbreviatedPath": "\/img\/noticias\/noticia_cambio_codigo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/noticias\/noticia_cambio_codigo_th.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63987,
+		"inputAbbreviatedPath": "\/img\/noticias\/noticia_cambio_codigo_th.jpg",
+		"outputAbbreviatedPath": "\/img\/noticias\/noticia_cambio_codigo_th.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/noticias\/noticia_nch_399.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4214,6 +4236,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/noticia_cambio_codigo.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/noticia_cambio_codigo.kit",
+		"outputAbbreviatedPath": "\/noticia_cambio_codigo.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/noticia_norma_chilena_diseno_riego.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -4678,6 +4709,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/modals.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/noticia_cambio_codigo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/noticia_cambio_codigo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
