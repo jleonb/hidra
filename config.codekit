@@ -2424,6 +2424,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/noticias\/instalar-riego-por-goteo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39112,
+		"inputAbbreviatedPath": "\/img\/noticias\/instalar-riego-por-goteo.jpg",
+		"outputAbbreviatedPath": "\/img\/noticias\/instalar-riego-por-goteo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/noticias\/noticia_cambio_codigo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2490,6 +2501,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/noticias\/noticia_riego_tecnificado.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/noticias\/noticia_riego_tecnificado.png",
+		"outputAbbreviatedPath": "\/img\/noticias\/noticia_riego_tecnificado.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/noticias\/noticia_riego_tecnificado_th.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 308641,
+		"inputAbbreviatedPath": "\/img\/noticias\/noticia_riego_tecnificado_th.png",
+		"outputAbbreviatedPath": "\/img\/noticias\/noticia_riego_tecnificado_th.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/placeholder-image.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2508,6 +2541,39 @@
 		"initialSize": 30702,
 		"inputAbbreviatedPath": "\/img\/presostato.jpg",
 		"outputAbbreviatedPath": "\/img\/presostato.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promociones\/aspersor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52661,
+		"inputAbbreviatedPath": "\/img\/promociones\/aspersor.jpg",
+		"outputAbbreviatedPath": "\/img\/promociones\/aspersor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promociones\/baccara.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53407,
+		"inputAbbreviatedPath": "\/img\/promociones\/baccara.jpg",
+		"outputAbbreviatedPath": "\/img\/promociones\/baccara.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promociones\/maxipaw.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53918,
+		"inputAbbreviatedPath": "\/img\/promociones\/maxipaw.jpg",
+		"outputAbbreviatedPath": "\/img\/promociones\/maxipaw.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4263,6 +4329,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/noticia_riego_por_goteo.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/noticia_riego_por_goteo.kit",
+		"outputAbbreviatedPath": "\/noticia_riego_por_goteo.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/noticias.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -4736,6 +4811,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/noticia_norma_chilena_nch_399_2011.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/noticia_riego_por_goteo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/noticia_riego_por_goteo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

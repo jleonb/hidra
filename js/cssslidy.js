@@ -15,8 +15,8 @@
             captionFont: 'Avenir, Avenir Next, Droid Sans, DroidSansRegular, Corbel, Tahoma, Geneva, sans-serif',
             captionPosition: 'bottom', // options: top, bottom
             captionAppear: 'slide', //  options: slide, perm, fade
-            captionSize: '1.6rem', // same units
-            captionPadding: '.6rem' // same units
+            captionSize: '0rem', // same units
+            captionPadding: '0rem' // same units
         };
         for (var option in defaultOptions) mergedOptions[option] = defaultOptions[option];
         for (var option in newOptions) mergedOptions[option] = newOptions[option];
@@ -125,14 +125,14 @@
             }
             css.innerHTML += "@" + keyframeprefix + "keyframes " + options.cssAnimationName + " {\n";
             if (options.slidyDirection == "right") {
-                for (i = imgCount - 1; i > 0; i--) { // 
+                for (i = imgCount - 1; i > 0; i--) { //
                     position += slideRatio; // make the keyframe the position of the image
                     css.innerHTML += position + "% { left: -" + (i * 100) + "%; }\n";
                     position += moveRatio; // make the postion for the _next_ slide
                     css.innerHTML += position + "% { left: -" + ((i - 1) * 100) + "%; }\n";
                 }
-            } else { // the slider is moving to the left    
-                for (i = 0; i < (imgCount - 1); i++) { // 
+            } else { // the slider is moving to the left
+                for (i = 0; i < (imgCount - 1); i++) { //
                     position += slideRatio; // make the keyframe the position of the image
                     css.innerHTML += position + "% { left: -" + (i * 100) + "%; }\n";
                     position += moveRatio; // make the postion for the _next_ slide

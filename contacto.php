@@ -1,8 +1,29 @@
 <?php
+
+// $email;$comment;$captcha;
+// if(isset($_POST['nombre'])){
+//   $nombre=$_POST['nombre'];
+// }if(isset($_POST['empresa'])){
+//   $empresa=$_POST['empresa'];
+// }if(isset($_POST['telefono'])){
+//   $telefono=$_POST['telefono'];
+// }if(isset($_POST['comments'])){
+//   $comments=$_POST['comments'];
+// }if(isset($_POST['g-recaptcha-response'])){
+//   $captcha=$_POST['g-recaptcha-response'];
+// }
+// if(!$captcha){
+//   echo 'Errores en el formulario, por favor vuelva e intentelo denuevo.';
+//   exit;
+// }
+// $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=6LcRfhIUAAAAANpi8OEDv0gD6BPzjT-JD91UOU8C&response=".$captcha."&remoteip=".$_SERVER['REMOTE_ADDR']);
+
+
+
 if(isset($_POST['email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "contacto@hidra.cl";
+    $email_to = "contacto@hidra.cl,riegohidra@gmail.com";
     $email_subject = "CONTACTO - WEB";
 
     function died($error) {

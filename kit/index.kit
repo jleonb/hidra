@@ -16,7 +16,43 @@
 	<div class="page-container">
 
 		<!-- bloc-0 -->
-		<!-- @include menu.kit -->
+		<div class="bloc bgc-white l-bloc sticky-nav" id="bloc-0">
+			<div class="container bloc-xxs">
+				<nav class="navbar row">
+					<div class="navbar-header">
+						<a class="navbar-brand" href="index.html">
+							<img src="img/logolargo.jpg" alt="logo" width="150" />
+						</a>
+						<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
+							<span class="sr-only">Móvil</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse navbar-1">
+						<ul class="site-navigation nav navbar-nav list-unstyled">
+							<li>
+								<a href="index.html" class="ltc-green-ryb hvr-underline-from-center">INICIO</a>
+							</li>
+							<li>
+								<a href="catalogo.html" class="ltc-green-ryb hvr-underline-from-center">CATALOGO</a>
+							</li>
+							<li>
+								<a href="#" class="ltc-green-ryb hvr-underline-from-center">FEEDBACK</a>
+							</li>
+							<li>
+								<a href="noticias.html" class="ltc-green-ryb hvr-underline-from-center">NOTICIAS</a>
+							</li>
+							<li>
+								<a onclick="scrollToTarget('#bloc-c1')" class="ltc-green-ryb hvr-underline-from-center btn-contacto"> <strong>CONTACTO</strong></a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</div>
+
 		<!-- bloc-0 END -->
 
 		<!-- bloc-1 -->
@@ -40,25 +76,25 @@
 							<!-- Wrapper for slides -->
 							<div class="carousel-inner" role="listbox">
 								<div class="item active">
-									<a href="bombas.html"><img src="img/slider/_bombas.png" alt="imagen"></a>
+									<a href="bombas.html"><img src="img/slider/_bombas.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 								<div class="item">
-									<a href="filtros.html"><img src="img/slider/_filtros.png" alt="imagen"></a>
+									<a href="filtros.html"><img src="img/slider/_filtros.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 								<div class="item">
-									<a href="valvulas.html"><img src="img/slider/_valvulas.png" alt="imagen"></a>
+									<a href="valvulas.html"><img src="img/slider/_valvulas.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 								<div class="item">
-									<a href="riego-agricola.html"><img src="img/slider/_riego-agricola.png" alt="imagen"></a>
+									<a href="riego-agricola.html"><img src="img/slider/_riego-agricola.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 								<div class="item">
-									<a href="riego-areas-verdes.html"><img src="img/slider/_riego-areas-verdes.png" alt="imagen"></a>
+									<a href="riego-areas-verdes.html"><img src="img/slider/_riego-areas-verdes.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 								<div class="item">
-									<a href="tuberia.html"><img src="img/slider/_tuberias.png" alt="imagen"></a>
+									<a href="tuberia.html"><img src="img/slider/_tuberias.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 								<div class="item">
-									<a href="control.html"><img src="img/slider/_control.png" alt="imagen"></a>
+									<a href="control.html"><img src="img/slider/_control.png" alt="imagen" width="95%" class="img-responsive center-block"></a>
 								</div>
 							</div>
 
@@ -74,8 +110,17 @@
 						</div>
 					</div>
 					<div class="col-sm-4">
-						<a href="catalogo.html"><img src="img/lateral-catalogo.jpg" class="img-responsive center-block"></a>
-						<a onclick="scrollToTarget('#bloc-c1')"><img src="img/lateral-transporte.jpg" class="img-responsive center-block"></a>
+						<a href="catalogo.html"><img src="img/consulta-catalogo.jpg" class="img-responsive center-block"></a>
+						<!-- <a onclick="scrollToTarget('#bloc-c1')"><img src="img/lateral-transporte.jpg" class="img-responsive center-block"></a> -->
+						<!-- <a onclick="scrollToTarget('#bloc-c1')">
+							<div id="slidy-container">
+							  <figure id="slidy">
+									<img src="./img/promociones/maxipaw.jpg" alt >
+							    	<img src="./img/promociones/baccara.jpg" alt >
+									<img src="./img/promociones/aspersor.jpg" alt data-caption="" >
+							  </figure>
+							</div>
+						</a> -->
 					</div>
 				</div>
 			</div>
@@ -92,7 +137,9 @@
 						</h4>
 						<div class="ih-item circle effect6 scale_up">
 							<a href="#" data-toggle="modal" data-target="#agricola">
-							<div class="img center-block mg-md img-responsive"><img src="img/riego_agricola.png" alt="img"></div>
+							<div class="img center-block mg-md img-responsive">
+								<img src="img/riego_agricola.png" alt="img">
+							</div>
 								<div class="info text-center">
 									<h3>Riego Tecnificado Agrícola</h3>
 									<!-- <p>Description goes here</p> -->
@@ -209,7 +256,7 @@
 				</div>
 			</div>
 			<br>
-			
+
 		</div>
 		<!-- bloc-2 END -->
 
@@ -352,9 +399,14 @@
 										<textarea rows="6" class="form-control" id="comments" name="comments" placeholder="consulta o comentario"></textarea>
 									</div>
 								</div>
+								<!-- <div class="form-group">
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<div class="g-recaptcha" data-sitekey="6LcRfhIUAAAAABLhIysAWLtxTeHYshGgwW90Z0JB"></div>
+									</div>
+								</div> -->
 								<div class="form-group">
-									<div class="col-md-12">
-										<button id="send_btn" type="submit" value="Submit" class="btn btn-custom pull-right">Enviar</button>
+									<div class="col-md-10 col-md-offset-1 input-group">
+										<button id="send_btn" type="submit" value="Submit" class="btn btn-custom pull-left">Enviar</button>
 									</div>
 								</div>
 							</form>
@@ -393,9 +445,6 @@
 	<!-- JavaScript -->
 	<!-- @include javascript.kit -->
 	<script>
-		cssSlidy();
-	</script>
-	<script>
 			$("#bloc-c1").click(function() {
 		$('html, body').animate({
 		scrollTop: $("#bloc-c1").offset().top
@@ -405,10 +454,48 @@
 	<!-- JavaScript END -->
 
 	<script src="js/lightbox.min.js"></script>
+	<script>
+		cssSlidy();
+	</script>
+
+
+
+
+	<!-- <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		<div class="modal-dialog" role="document">
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			  <h4 class="modal-title" id="myModalLabel">Ofertas disponibles</h4>
+			</div>
+			<div class="modal-body">
+			  <img src="img/promociones/popup.jpg" alt="promociones Hidra" class="img-responsive center-block">
+			</div>
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-success" data-dismiss="modal">Cerrar</button>
+			</div>
+		  </div>
+		</div>
+	</div>
+
+	<script>
+		$('#myModal').modal({
+			show: 'true'
+		}); 
+	</script> -->
+
+	
 </body>
+
+
+
+
+
 
 <!-- Google Analytics -->
 
 <!-- Google Analytics END -->
 
 </html>
+
+

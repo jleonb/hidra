@@ -1105,4 +1105,16 @@ a .next-lightbox {
 }
 .text-justify {
 	text-align: justify;
+} 
+
+
+
+
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.btn-contacto {
+	font-size: 1.2em!important;
 }

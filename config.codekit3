@@ -1,0 +1,6803 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "917EC861-A536-43AD-A768-A821C63E55B9"
+		}
+	],
+"creatorBuild": "26097",
+"files": {
+	"\/.vscode\/launch.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/.vscode\/launch-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/aspersor_automat.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aspersor_automat.html",
+		"oF": 0
+		},
+	"\/aspersor_naandanjain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aspersor_naandanjain.html",
+		"oF": 0
+		},
+	"\/aspersor_rain_bird.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aspersor_rain_bird.html",
+		"oF": 0
+		},
+	"\/aspersor_riegos_costa.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aspersor_riegos_costa.html",
+		"oF": 0
+		},
+	"\/aspersor_sime.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aspersor_sime.html",
+		"oF": 0
+		},
+	"\/aspersor_vyrsa.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/aspersor_vyrsa.html",
+		"oF": 0
+		},
+	"\/bomba_soplante.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bomba_soplante.html",
+		"oF": 0
+		},
+	"\/bombas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas.html",
+		"oF": 0
+		},
+	"\/bombas_cnp.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_cnp.html",
+		"oF": 0
+		},
+	"\/bombas_durapool.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_durapool.html",
+		"oF": 0
+		},
+	"\/bombas_injecta.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_injecta.html",
+		"oF": 0
+		},
+	"\/bombas_ksb.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_ksb.html",
+		"oF": 0
+		},
+	"\/bombas_pentax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_pentax.html",
+		"oF": 0
+		},
+	"\/bombas_saer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_saer.html",
+		"oF": 0
+		},
+	"\/bombas_salmson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_salmson.html",
+		"oF": 0
+		},
+	"\/bombas_subteck.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_subteck.html",
+		"oF": 0
+		},
+	"\/bombas_wilo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/bombas_wilo.html",
+		"oF": 0
+		},
+	"\/canastillo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/canastillo.html",
+		"oF": 0
+		},
+	"\/catalogo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/catalogo.html",
+		"oF": 0
+		},
+	"\/cinta_azud.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cinta_azud.html",
+		"oF": 0
+		},
+	"\/cinta_cindrip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cinta_cindrip.html",
+		"oF": 0
+		},
+	"\/cinta_eurodrip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cinta_eurodrip.html",
+		"oF": 0
+		},
+	"\/cinta_irritec.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cinta_irritec.html",
+		"oF": 0
+		},
+	"\/cinta_naandanjain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cinta_naandanjain.html",
+		"oF": 0
+		},
+	"\/cinta_sky.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/cinta_sky.html",
+		"oF": 0
+		},
+	"\/contacto.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/contacto.php",
+		"oF": 0
+		},
+	"\/control-baccara.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-baccara.html",
+		"oF": 0
+		},
+	"\/control-filtron.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-filtron.html",
+		"oF": 0
+		},
+	"\/control-galcon.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-galcon.html",
+		"oF": 0
+		},
+	"\/control-hunter.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-hunter.html",
+		"oF": 0
+		},
+	"\/control-irritrol.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-irritrol.html",
+		"oF": 0
+		},
+	"\/control-krain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-krain.html",
+		"oF": 0
+		},
+	"\/control-rainbird.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control-rainbird.html",
+		"oF": 0
+		},
+	"\/control.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/control.html",
+		"oF": 0
+		},
+	"\/css\/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/font-awesome.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/font-awesome-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/font-awesome.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/font-awesome.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/font-awesome.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/css\/font-awesome.min.css.map",
+		"oF": 0
+		},
+	"\/css\/hover.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/hover-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/hover.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/hover.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/ihover.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/ihover-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/ihover.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/ihover.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/lightbox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/lightbox-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/lightbox.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/lightbox.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/owl.carousel.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/owl.carousel-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/emisor-hunter-boquillas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-boquillas.html",
+		"oF": 0
+		},
+	"\/emisor-hunter-cuerpo-popup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/emisor-hunter-golf.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-golf.html",
+		"oF": 0
+		},
+	"\/emisor-hunter-rotor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-rotor.html",
+		"oF": 0
+		},
+	"\/emisor-irritrol-aspersordeimpacto.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-aspersordeimpacto.html",
+		"oF": 0
+		},
+	"\/emisor-irritrol-boquillas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-boquillas.html",
+		"oF": 0
+		},
+	"\/emisor-irritrol-cuerpo-popup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/emisor-irritrol-rotor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-rotor.html",
+		"oF": 0
+		},
+	"\/emisor-krain-boquillas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-krain-boquillas.html",
+		"oF": 0
+		},
+	"\/emisor-krain-cuerpo-popup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-krain-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/emisor-krain-rotor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-krain-rotor.html",
+		"oF": 0
+		},
+	"\/emisor-rainbird-aspersordeimpacto.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-aspersordeimpacto.html",
+		"oF": 0
+		},
+	"\/emisor-rainbird-boquillas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-boquillas.html",
+		"oF": 0
+		},
+	"\/emisor-rainbird-cuerpo-popup.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/emisor-rainbird-golf.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-golf.html",
+		"oF": 0
+		},
+	"\/emisor-rainbird-rotor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-rotor.html",
+		"oF": 0
+		},
+	"\/emisores-hunter.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisores-hunter.html",
+		"oF": 0
+		},
+	"\/emisores-irritrol.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisores-irritrol.html",
+		"oF": 0
+		},
+	"\/emisores-krain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisores-krain.html",
+		"oF": 0
+		},
+	"\/emisores-rain-bird.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/emisores-rain-bird.html",
+		"oF": 0
+		},
+	"\/emisores_areas_verdes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/emisores_areas_verdes.html",
+		"oF": 0
+		},
+	"\/estanque_hidroneumatico.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/estanque_hidroneumatico.html",
+		"oF": 0
+		},
+	"\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 5493,
+		"oA": 0,
+		"oAP": "\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 20915,
+		"oA": 0,
+		"oAP": "\/favicons\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 5307,
+		"oA": 0,
+		"oAP": "\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 675,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1175,
+		"oA": 0,
+		"oAP": "\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 4942,
+		"oA": 0,
+		"oAP": "\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/feedback.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/feedback.html",
+		"oF": 0
+		},
+	"\/filtros.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros.html",
+		"oF": 0
+		},
+	"\/filtros_amiad.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_amiad.html",
+		"oF": 0
+		},
+	"\/filtros_azud.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_azud.html",
+		"oF": 0
+		},
+	"\/filtros_hidroten.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_hidroten.html",
+		"oF": 0
+		},
+	"\/filtros_javi.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_javi.html",
+		"oF": 0
+		},
+	"\/filtros_palaplast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_palaplast.html",
+		"oF": 0
+		},
+	"\/filtros_stf.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_stf.html",
+		"oF": 0
+		},
+	"\/filtros_yamit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/filtros_yamit.html",
+		"oF": 0
+		},
+	"\/fittings-hdpe-compresion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fittings-hdpe-compresion.html",
+		"oF": 0
+		},
+	"\/fittings-polietileno.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fittings-polietileno.html",
+		"oF": 0
+		},
+	"\/fittings-pvc.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fittings-pvc.html",
+		"oF": 0
+		},
+	"\/fittings-storz.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fittings-storz.html",
+		"oF": 0
+		},
+	"\/fonts\/fontawesome-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/fontawesome-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/fonts\/fontawesome-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/fontawesome-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/FontAwesome.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.eot",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.ttf",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.woff",
+		"oF": 0
+		},
+	"\/fonts\/glyphicons-halflings-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/glyphicons-halflings-regular.woff2",
+		"oF": 0
+		},
+	"\/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/footer.html",
+		"oF": 0
+		},
+	"\/gotero_eurodrip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/gotero_eurodrip.html",
+		"oF": 0
+		},
+	"\/gotero_hydro.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/gotero_hydro.html",
+		"oF": 0
+		},
+	"\/gotero_irritec.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/gotero_irritec.html",
+		"oF": 0
+		},
+	"\/gotero_microflapper.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/gotero_microflapper.html",
+		"oF": 0
+		},
+	"\/gotero_naandanjain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/gotero_naandanjain.html",
+		"oF": 0
+		},
+	"\/gotero_palaplast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/gotero_palaplast.html",
+		"oF": 0
+		},
+	"\/head.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/head.html",
+		"oF": 0
+		},
+	"\/images\/close.png": {
+		"ft": 32768,
+		"iS": 280,
+		"oA": 0,
+		"oAP": "\/images\/close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 8476,
+		"oA": 0,
+		"oAP": "\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/next.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 0,
+		"oAP": "\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 1360,
+		"oA": 0,
+		"oAP": "\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/1a.jpg": {
+		"ft": 16384,
+		"iS": 67361,
+		"oA": 0,
+		"oAP": "\/img\/1a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/1b.jpg": {
+		"ft": 16384,
+		"iS": 87822,
+		"oA": 0,
+		"oAP": "\/img\/1b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/2.jpg": {
+		"ft": 16384,
+		"iS": 309565,
+		"oA": 0,
+		"oAP": "\/img\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/3a.jpg": {
+		"ft": 16384,
+		"iS": 119523,
+		"oA": 0,
+		"oAP": "\/img\/3a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/aspersor_de_impacto_automat.jpg": {
+		"ft": 16384,
+		"iS": 37207,
+		"oA": 0,
+		"oAP": "\/img\/aspersor_de_impacto_automat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/aspersor_de_impacto_naandanjain.jpg": {
+		"ft": 16384,
+		"iS": 39015,
+		"oA": 0,
+		"oAP": "\/img\/aspersor_de_impacto_naandanjain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/aspersor_de_impacto_rain_bird.jpg": {
+		"ft": 16384,
+		"iS": 58531,
+		"oA": 0,
+		"oAP": "\/img\/aspersor_de_impacto_rain_bird.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/aspersor_de_impacto_riegos_costa.jpg": {
+		"ft": 16384,
+		"iS": 46324,
+		"oA": 0,
+		"oAP": "\/img\/aspersor_de_impacto_riegos_costa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/aspersor_de_impacto_sime.jpg": {
+		"ft": 16384,
+		"iS": 34506,
+		"oA": 0,
+		"oAP": "\/img\/aspersor_de_impacto_sime.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/aspersor_de_impacto_vyrsa.jpg": {
+		"ft": 16384,
+		"iS": 54812,
+		"oA": 0,
+		"oAP": "\/img\/aspersor_de_impacto_vyrsa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/banner_1.jpg": {
+		"ft": 16384,
+		"iS": 258476,
+		"oA": 0,
+		"oAP": "\/img\/banner_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/banner_secundario_1.jpg": {
+		"ft": 16384,
+		"iS": 128469,
+		"oA": 0,
+		"oAP": "\/img\/banner_secundario_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bomba_soplante.jpg": {
+		"ft": 16384,
+		"iS": 42244,
+		"oA": 0,
+		"oAP": "\/img\/bomba_soplante.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/bombas.jpg": {
+		"ft": 16384,
+		"iS": 254003,
+		"oA": 0,
+		"oAP": "\/img\/bombas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_cnp.jpg": {
+		"ft": 16384,
+		"iS": 55023,
+		"oA": 0,
+		"oAP": "\/img\/bombas_cnp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_durapool.jpg": {
+		"ft": 16384,
+		"iS": 38614,
+		"oA": 0,
+		"oAP": "\/img\/bombas_durapool.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/bombas_injecta.jpg": {
+		"ft": 16384,
+		"iS": 51346,
+		"oA": 0,
+		"oAP": "\/img\/bombas_injecta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/bombas_ksb.jpg": {
+		"ft": 16384,
+		"iS": 62772,
+		"oA": 0,
+		"oAP": "\/img\/bombas_ksb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_pentax.jpg": {
+		"ft": 16384,
+		"iS": 70472,
+		"oA": 0,
+		"oAP": "\/img\/bombas_pentax.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_saer.jpg": {
+		"ft": 16384,
+		"iS": 58801,
+		"oA": 0,
+		"oAP": "\/img\/bombas_saer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_salmson.jpg": {
+		"ft": 16384,
+		"iS": 53985,
+		"oA": 0,
+		"oAP": "\/img\/bombas_salmson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_subteck.jpg": {
+		"ft": 16384,
+		"iS": 30712,
+		"oA": 0,
+		"oAP": "\/img\/bombas_subteck.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombas_wilo.jpg": {
+		"ft": 16384,
+		"iS": 60986,
+		"oA": 0,
+		"oAP": "\/img\/bombas_wilo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombeo.png": {
+		"ft": 32768,
+		"iS": 23243,
+		"oA": 0,
+		"oAP": "\/img\/bombeo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/bombsas_ksb.jpg": {
+		"ft": 16384,
+		"iS": 62772,
+		"oA": 0,
+		"oAP": "\/img\/bombsas_ksb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bombsas_saer.jpg": {
+		"ft": 16384,
+		"iS": 70472,
+		"oA": 0,
+		"oAP": "\/img\/bombsas_saer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/camion.png": {
+		"ft": 32768,
+		"iS": 1795,
+		"oA": 0,
+		"oAP": "\/img\/camion.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/cat\/amiad.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/amiad.pdf",
+		"oF": 0
+		},
+	"\/img\/cat\/javi.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/javi.pdf",
+		"oF": 0
+		},
+	"\/img\/cat\/pentax.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/pentax.pdf",
+		"oF": 0
+		},
+	"\/img\/cat\/saer.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/saer.pdf",
+		"oF": 0
+		},
+	"\/img\/cat\/subteck.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/subteck.pdf",
+		"oF": 0
+		},
+	"\/img\/cat\/wilo.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/wilo.pdf",
+		"oF": 0
+		},
+	"\/img\/cat\/yamit.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/cat\/yamit.pdf",
+		"oF": 0
+		},
+	"\/img\/cinta_azud.jpg": {
+		"ft": 16384,
+		"iS": 62508,
+		"oA": 0,
+		"oAP": "\/img\/cinta_azud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cinta_cindrip.jpg": {
+		"ft": 16384,
+		"iS": 54571,
+		"oA": 0,
+		"oAP": "\/img\/cinta_cindrip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cinta_eurodrip.jpg": {
+		"ft": 16384,
+		"iS": 55310,
+		"oA": 0,
+		"oAP": "\/img\/cinta_eurodrip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cinta_irridelco.jpg": {
+		"ft": 16384,
+		"iS": 55709,
+		"oA": 0,
+		"oAP": "\/img\/cinta_irridelco.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cinta_irritec.jpg": {
+		"ft": 16384,
+		"iS": 76093,
+		"oA": 0,
+		"oAP": "\/img\/cinta_irritec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cinta_naandanjain.jpg": {
+		"ft": 16384,
+		"iS": 50189,
+		"oA": 0,
+		"oAP": "\/img\/cinta_naandanjain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/cinta_sky.jpg": {
+		"ft": 16384,
+		"iS": 47966,
+		"oA": 0,
+		"oAP": "\/img\/cinta_sky.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/consulta-catalogo.jpg": {
+		"ft": 16384,
+		"iS": 329666,
+		"oA": 0,
+		"oAP": "\/img\/consulta-catalogo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/control-baccara.jpg": {
+		"ft": 16384,
+		"iS": 34674,
+		"oA": 0,
+		"oAP": "\/img\/control-baccara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/control-filtron.jpg": {
+		"ft": 16384,
+		"iS": 38826,
+		"oA": 0,
+		"oAP": "\/img\/control-filtron.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/control-galcon.jpg": {
+		"ft": 16384,
+		"iS": 52249,
+		"oA": 0,
+		"oAP": "\/img\/control-galcon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/control-hunter.jpg": {
+		"ft": 16384,
+		"iS": 48220,
+		"oA": 0,
+		"oAP": "\/img\/control-hunter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/control-irritrol.jpg": {
+		"ft": 16384,
+		"iS": 40535,
+		"oA": 0,
+		"oAP": "\/img\/control-irritrol.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/control-krain.jpg": {
+		"ft": 16384,
+		"iS": 41333,
+		"oA": 0,
+		"oAP": "\/img\/control-krain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/control-rainbird.jpg": {
+		"ft": 16384,
+		"iS": 43395,
+		"oA": 0,
+		"oAP": "\/img\/control-rainbird.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/control.jpg": {
+		"ft": 16384,
+		"iS": 197895,
+		"oA": 0,
+		"oAP": "\/img\/control.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cuerpo_pop_up_hunter.jpg": {
+		"ft": 16384,
+		"iS": 24567,
+		"oA": 0,
+		"oAP": "\/img\/cuerpo_pop_up_hunter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cuerpo_pop_up_irritrol.jpg": {
+		"ft": 16384,
+		"iS": 32944,
+		"oA": 0,
+		"oAP": "\/img\/cuerpo_pop_up_irritrol.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cuerpo_pop_up_k_rain.jpg": {
+		"ft": 16384,
+		"iS": 26400,
+		"oA": 0,
+		"oAP": "\/img\/cuerpo_pop_up_k_rain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/cuerpo_pop_up_rain_bird.jpg": {
+		"ft": 16384,
+		"iS": 36769,
+		"oA": 0,
+		"oAP": "\/img\/cuerpo_pop_up_rain_bird.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/diseno.png": {
+		"ft": 32768,
+		"iS": 25304,
+		"oA": 0,
+		"oAP": "\/img\/diseno.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/emisor-hunter-boquillas.jpg": {
+		"ft": 16384,
+		"iS": 58964,
+		"oA": 0,
+		"oAP": "\/img\/emisor-hunter-boquillas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-hunter-cuerpo-popup.jpg": {
+		"ft": 16384,
+		"iS": 30993,
+		"oA": 0,
+		"oAP": "\/img\/emisor-hunter-cuerpo-popup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-hunter-golf.jpg": {
+		"ft": 16384,
+		"iS": 31676,
+		"oA": 0,
+		"oAP": "\/img\/emisor-hunter-golf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-hunter-rotor.jpg": {
+		"ft": 16384,
+		"iS": 27971,
+		"oA": 0,
+		"oAP": "\/img\/emisor-hunter-rotor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-irritrol-aspersordeimpacto.jpg": {
+		"ft": 16384,
+		"iS": 33488,
+		"oA": 0,
+		"oAP": "\/img\/emisor-irritrol-aspersordeimpacto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-irritrol-boquillas.jpg": {
+		"ft": 16384,
+		"iS": 42612,
+		"oA": 0,
+		"oAP": "\/img\/emisor-irritrol-boquillas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/emisor-irritrol-cuerpo-popup.jpg": {
+		"ft": 16384,
+		"iS": 37230,
+		"oA": 0,
+		"oAP": "\/img\/emisor-irritrol-cuerpo-popup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-irritrol-rotor.jpg": {
+		"ft": 16384,
+		"iS": 31172,
+		"oA": 0,
+		"oAP": "\/img\/emisor-irritrol-rotor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-krain-boquillas.jpg": {
+		"ft": 16384,
+		"iS": 66988,
+		"oA": 0,
+		"oAP": "\/img\/emisor-krain-boquillas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-krain-cuerpo-popup.jpg": {
+		"ft": 16384,
+		"iS": 30748,
+		"oA": 0,
+		"oAP": "\/img\/emisor-krain-cuerpo-popup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-krain-rotor.jpg": {
+		"ft": 16384,
+		"iS": 30728,
+		"oA": 0,
+		"oAP": "\/img\/emisor-krain-rotor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-rainbird-aspersordeimpacto.jpg": {
+		"ft": 16384,
+		"iS": 43886,
+		"oA": 0,
+		"oAP": "\/img\/emisor-rainbird-aspersordeimpacto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/emisor-rainbird-boquillas.jpg": {
+		"ft": 16384,
+		"iS": 59866,
+		"oA": 0,
+		"oAP": "\/img\/emisor-rainbird-boquillas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisor-rainbird-cuerpo-popup.jpg": {
+		"ft": 16384,
+		"iS": 40269,
+		"oA": 0,
+		"oAP": "\/img\/emisor-rainbird-cuerpo-popup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/emisor-rainbird-golf.jpg": {
+		"ft": 16384,
+		"iS": 46301,
+		"oA": 0,
+		"oAP": "\/img\/emisor-rainbird-golf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/emisor-rainbird-rotores.jpg": {
+		"ft": 16384,
+		"iS": 42007,
+		"oA": 0,
+		"oAP": "\/img\/emisor-rainbird-rotores.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/emisores-agricola.jpg": {
+		"ft": 16384,
+		"iS": 125918,
+		"oA": 0,
+		"oAP": "\/img\/emisores-agricola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/emisores-areas-verdes.jpg": {
+		"ft": 16384,
+		"iS": 144116,
+		"oA": 0,
+		"oAP": "\/img\/emisores-areas-verdes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/estanque_hidroneumatico.jpg": {
+		"ft": 16384,
+		"iS": 39465,
+		"oA": 0,
+		"oAP": "\/img\/estanque_hidroneumatico.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/filtrado.png": {
+		"ft": 32768,
+		"iS": 26381,
+		"oA": 0,
+		"oAP": "\/img\/filtrado.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/filtros.jpg": {
+		"ft": 16384,
+		"iS": 141283,
+		"oA": 0,
+		"oAP": "\/img\/filtros.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/filtros_amiad.jpg": {
+		"ft": 16384,
+		"iS": 48677,
+		"oA": 0,
+		"oAP": "\/img\/filtros_amiad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/filtros_azud.jpg": {
+		"ft": 16384,
+		"iS": 61569,
+		"oA": 0,
+		"oAP": "\/img\/filtros_azud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/filtros_hidroten.jpg": {
+		"ft": 16384,
+		"iS": 33466,
+		"oA": 0,
+		"oAP": "\/img\/filtros_hidroten.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/filtros_javi.jpg": {
+		"ft": 16384,
+		"iS": 40959,
+		"oA": 0,
+		"oAP": "\/img\/filtros_javi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/filtros_palaplast.jpg": {
+		"ft": 16384,
+		"iS": 41491,
+		"oA": 0,
+		"oAP": "\/img\/filtros_palaplast.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/filtros_stf.jpg": {
+		"ft": 16384,
+		"iS": 47024,
+		"oA": 0,
+		"oAP": "\/img\/filtros_stf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/filtros_yamit.jpg": {
+		"ft": 16384,
+		"iS": 44219,
+		"oA": 0,
+		"oAP": "\/img\/filtros_yamit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/fittings-hdpe-compresion.jpg": {
+		"ft": 16384,
+		"iS": 40504,
+		"oA": 0,
+		"oAP": "\/img\/fittings-hdpe-compresion.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/fittings-polietileno.jpg": {
+		"ft": 16384,
+		"iS": 38672,
+		"oA": 0,
+		"oAP": "\/img\/fittings-polietileno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/fittings-pvc.jpg": {
+		"ft": 16384,
+		"iS": 35459,
+		"oA": 0,
+		"oAP": "\/img\/fittings-pvc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fittings-storz.jpg": {
+		"ft": 16384,
+		"iS": 56127,
+		"oA": 0,
+		"oAP": "\/img\/fittings-storz.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/fondo_feedback.jpg": {
+		"ft": 16384,
+		"iS": 109214,
+		"oA": 0,
+		"oAP": "\/img\/fondo_feedback.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fondo_home.jpg": {
+		"ft": 16384,
+		"iS": 472232,
+		"oA": 0,
+		"oAP": "\/img\/fondo_home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fondo_home_30.jpg": {
+		"ft": 16384,
+		"iS": 412502,
+		"oA": 0,
+		"oAP": "\/img\/fondo_home_30.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fondo_home_50.jpg": {
+		"ft": 16384,
+		"iS": 364251,
+		"oA": 0,
+		"oAP": "\/img\/fondo_home_50.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gotero_boton_eurodrip.jpg": {
+		"ft": 16384,
+		"iS": 41005,
+		"oA": 0,
+		"oAP": "\/img\/gotero_boton_eurodrip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/gotero_boton_hydro.jpg": {
+		"ft": 16384,
+		"iS": 26154,
+		"oA": 0,
+		"oAP": "\/img\/gotero_boton_hydro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gotero_boton_irritec.jpg": {
+		"ft": 16384,
+		"iS": 34969,
+		"oA": 0,
+		"oAP": "\/img\/gotero_boton_irritec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gotero_boton_naandanjain.jpg": {
+		"ft": 16384,
+		"iS": 31390,
+		"oA": 0,
+		"oAP": "\/img\/gotero_boton_naandanjain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gotero_boton_palaplast.jpg": {
+		"ft": 16384,
+		"iS": 46795,
+		"oA": 0,
+		"oAP": "\/img\/gotero_boton_palaplast.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/gotero_microflapper.jpg": {
+		"ft": 16384,
+		"iS": 35466,
+		"oA": 0,
+		"oAP": "\/img\/gotero_microflapper.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/header_contacto.jpg": {
+		"ft": 16384,
+		"iS": 102236,
+		"oA": 0,
+		"oAP": "\/img\/header_contacto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/lateral-catalogo.jpg": {
+		"ft": 16384,
+		"iS": 38951,
+		"oA": 0,
+		"oAP": "\/img\/lateral-catalogo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/lateral-transporte.jpg": {
+		"ft": 16384,
+		"iS": 32540,
+		"oA": 0,
+		"oAP": "\/img\/lateral-transporte.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/linea_azud.jpg": {
+		"ft": 16384,
+		"iS": 62508,
+		"oA": 0,
+		"oAP": "\/img\/linea_azud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/linea_eurodrip.jpg": {
+		"ft": 16384,
+		"iS": 58654,
+		"oA": 0,
+		"oAP": "\/img\/linea_eurodrip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/linea_gestiriego.jpg": {
+		"ft": 16384,
+		"iS": 58575,
+		"oA": 0,
+		"oAP": "\/img\/linea_gestiriego.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/linea_naandanjain.jpg": {
+		"ft": 16384,
+		"iS": 54857,
+		"oA": 0,
+		"oAP": "\/img\/linea_naandanjain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/linea_rivulis.jpg": {
+		"ft": 16384,
+		"iS": 46409,
+		"oA": 0,
+		"oAP": "\/img\/linea_rivulis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/linea_vinilit.jpg": {
+		"ft": 16384,
+		"iS": 49823,
+		"oA": 0,
+		"oAP": "\/img\/linea_vinilit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/logolargo.jpg": {
+		"ft": 16384,
+		"iS": 35015,
+		"oA": 0,
+		"oAP": "\/img\/logolargo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/cnp.jpg": {
+		"ft": 16384,
+		"iS": 5533,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/cnp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/durapool.jpg": {
+		"ft": 16384,
+		"iS": 7474,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/durapool.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/injecta.jpg": {
+		"ft": 16384,
+		"iS": 13580,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/injecta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/ksb.jpg": {
+		"ft": 16384,
+		"iS": 8136,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/ksb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/pentax.jpg": {
+		"ft": 16384,
+		"iS": 10945,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/pentax.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/saer.jpg": {
+		"ft": 16384,
+		"iS": 12585,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/saer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/salmson.jpg": {
+		"ft": 16384,
+		"iS": 7715,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/salmson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/subteck.jpg": {
+		"ft": 16384,
+		"iS": 8149,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/subteck.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/bombas\/wilo.jpg": {
+		"ft": 16384,
+		"iS": 8680,
+		"oA": 0,
+		"oAP": "\/img\/logos\/bombas\/wilo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/bluex.jpg": {
+		"ft": 16384,
+		"iS": 17036,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/bluex.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/bluex.png": {
+		"ft": 32768,
+		"iS": 17036,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/bluex.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/chilexpress.jpg": {
+		"ft": 16384,
+		"iS": 15139,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/chilexpress.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/correos.jpg": {
+		"ft": 16384,
+		"iS": 23992,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/correos.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/empresas_cargo.jpg": {
+		"ft": 16384,
+		"iS": 25984,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/empresas_cargo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/litcargo.jpg": {
+		"ft": 16384,
+		"iS": 22393,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/litcargo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/pullman.jpg": {
+		"ft": 16384,
+		"iS": 21583,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/pullman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/starken.jpg": {
+		"ft": 16384,
+		"iS": 25655,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/starken.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/starken.png": {
+		"ft": 32768,
+		"iS": 25655,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/starken.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/trans_1.jpg": {
+		"ft": 16384,
+		"iS": 18670,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/trans_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/cargo\/trans_2.jpg": {
+		"ft": 16384,
+		"iS": 19094,
+		"oA": 0,
+		"oAP": "\/img\/logos\/cargo\/trans_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/filtros\/amiad.jpg": {
+		"ft": 16384,
+		"iS": 7220,
+		"oA": 0,
+		"oAP": "\/img\/logos\/filtros\/amiad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/filtros\/azud.jpg": {
+		"ft": 16384,
+		"iS": 6152,
+		"oA": 0,
+		"oAP": "\/img\/logos\/filtros\/azud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/filtros\/hidroten.jpg": {
+		"ft": 16384,
+		"iS": 6862,
+		"oA": 0,
+		"oAP": "\/img\/logos\/filtros\/hidroten.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/filtros\/javi.jpg": {
+		"ft": 16384,
+		"iS": 8841,
+		"oA": 0,
+		"oAP": "\/img\/logos\/filtros\/javi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/filtros\/stf.jpg": {
+		"ft": 16384,
+		"iS": 6922,
+		"oA": 0,
+		"oAP": "\/img\/logos\/filtros\/stf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/filtros\/yamit.jpg": {
+		"ft": 16384,
+		"iS": 6393,
+		"oA": 0,
+		"oAP": "\/img\/logos\/filtros\/yamit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/valvulas\/baccara.jpg": {
+		"ft": 16384,
+		"iS": 5215,
+		"oA": 0,
+		"oAP": "\/img\/logos\/valvulas\/baccara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/valvulas\/bermad.jpg": {
+		"ft": 16384,
+		"iS": 11827,
+		"oA": 0,
+		"oAP": "\/img\/logos\/valvulas\/bermad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/valvulas\/hunter.jpg": {
+		"ft": 16384,
+		"iS": 5067,
+		"oA": 0,
+		"oAP": "\/img\/logos\/valvulas\/hunter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/valvulas\/raphael.jpg": {
+		"ft": 16384,
+		"iS": 6216,
+		"oA": 0,
+		"oAP": "\/img\/logos\/valvulas\/raphael.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/valvulas\/tayson.jpg": {
+		"ft": 16384,
+		"iS": 5789,
+		"oA": 0,
+		"oAP": "\/img\/logos\/valvulas\/tayson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/logos\/valvulas\/tecnidro.jpg": {
+		"ft": 16384,
+		"iS": 15776,
+		"oA": 0,
+		"oAP": "\/img\/logos\/valvulas\/tecnidro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/mantenciones.png": {
+		"ft": 32768,
+		"iS": 25459,
+		"oA": 0,
+		"oAP": "\/img\/mantenciones.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/microaspersor_naandanjain.jpg": {
+		"ft": 16384,
+		"iS": 34877,
+		"oA": 0,
+		"oAP": "\/img\/microaspersor_naandanjain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/microaspersor_netafim.jpg": {
+		"ft": 16384,
+		"iS": 28689,
+		"oA": 0,
+		"oAP": "\/img\/microaspersor_netafim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/microaspersor_tavlit.jpg": {
+		"ft": 16384,
+		"iS": 39003,
+		"oA": 0,
+		"oAP": "\/img\/microaspersor_tavlit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/microjet_eco.jpg": {
+		"ft": 16384,
+		"iS": 32626,
+		"oA": 0,
+		"oAP": "\/img\/microjet_eco.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/microjet_hydro.jpg": {
+		"ft": 16384,
+		"iS": 33141,
+		"oA": 0,
+		"oAP": "\/img\/microjet_hydro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/microjet_olson.jpg": {
+		"ft": 16384,
+		"iS": 43827,
+		"oA": 0,
+		"oAP": "\/img\/microjet_olson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/microjet_palaplast.jpg": {
+		"ft": 16384,
+		"iS": 44596,
+		"oA": 0,
+		"oAP": "\/img\/microjet_palaplast.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/noticias\/instalar-riego-por-goteo.jpg": {
+		"ft": 16384,
+		"iS": 39112,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/instalar-riego-por-goteo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_cambio_codigo.jpg": {
+		"ft": 16384,
+		"iS": 118662,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_cambio_codigo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_cambio_codigo_th.jpg": {
+		"ft": 16384,
+		"iS": 63987,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_cambio_codigo_th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_nch_399.jpg": {
+		"ft": 16384,
+		"iS": 225666,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_nch_399.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_nch_399_th.jpg": {
+		"ft": 16384,
+		"iS": 151143,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_nch_399_th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_nueva_norma.jpg": {
+		"ft": 16384,
+		"iS": 52383,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_nueva_norma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_nueva_norma_th.jpg": {
+		"ft": 16384,
+		"iS": 29125,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_nueva_norma_th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_riego_tecnificado.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_riego_tecnificado.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/noticias\/noticia_riego_tecnificado_th.png": {
+		"ft": 32768,
+		"iS": 308641,
+		"oA": 0,
+		"oAP": "\/img\/noticias\/noticia_riego_tecnificado_th.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/pageload-spinner.gif": {
+		"ft": 4194304,
+		"iS": 43081,
+		"oA": 0,
+		"oAP": "\/img\/pageload-spinner.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/placeholder-image.png": {
+		"ft": 32768,
+		"iS": 5935,
+		"oA": 0,
+		"oAP": "\/img\/placeholder-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/presostato.jpg": {
+		"ft": 16384,
+		"iS": 26343,
+		"oA": 0,
+		"oAP": "\/img\/presostato.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/promociones\/aspersor.jpg": {
+		"ft": 16384,
+		"iS": 52661,
+		"oA": 0,
+		"oAP": "\/img\/promociones\/aspersor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/promociones\/baccara.jpg": {
+		"ft": 16384,
+		"iS": 53407,
+		"oA": 0,
+		"oAP": "\/img\/promociones\/baccara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/promociones\/maxipaw.jpg": {
+		"ft": 16384,
+		"iS": 53918,
+		"oA": 0,
+		"oAP": "\/img\/promociones\/maxipaw.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/promociones\/popup.jpg": {
+		"ft": 16384,
+		"iS": 387245,
+		"oA": 0,
+		"oAP": "\/img\/promociones\/popup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/riego_agricola.png": {
+		"ft": 32768,
+		"iS": 29209,
+		"oA": 0,
+		"oAP": "\/img\/riego_agricola.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/riego_areasverdes.png": {
+		"ft": 32768,
+		"iS": 31588,
+		"oA": 0,
+		"oAP": "\/img\/riego_areasverdes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sensor-humedad.jpg": {
+		"ft": 16384,
+		"iS": 32172,
+		"oA": 0,
+		"oAP": "\/img\/sensor-humedad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sensor-lluvia.jpg": {
+		"ft": 16384,
+		"iS": 27024,
+		"oA": 0,
+		"oAP": "\/img\/sensor-lluvia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/sensor-nivel.jpg": {
+		"ft": 16384,
+		"iS": 23255,
+		"oA": 0,
+		"oAP": "\/img\/sensor-nivel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/separador.png": {
+		"ft": 32768,
+		"iS": 2100,
+		"oA": 0,
+		"oAP": "\/img\/separador.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/servicios\/ag1.jpg": {
+		"ft": 16384,
+		"iS": 24238,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag10.jpg": {
+		"ft": 16384,
+		"iS": 60227,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag2.jpg": {
+		"ft": 16384,
+		"iS": 27291,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag3.jpg": {
+		"ft": 16384,
+		"iS": 28812,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag4.jpg": {
+		"ft": 16384,
+		"iS": 36046,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag5.jpg": {
+		"ft": 16384,
+		"iS": 34733,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag6.jpg": {
+		"ft": 16384,
+		"iS": 51488,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag7.jpg": {
+		"ft": 16384,
+		"iS": 27269,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag8.jpg": {
+		"ft": 16384,
+		"iS": 21276,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/ag9.jpg": {
+		"ft": 16384,
+		"iS": 52880,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/ag9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/av1.jpg": {
+		"ft": 16384,
+		"iS": 36021,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/av1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/av2.jpg": {
+		"ft": 16384,
+		"iS": 42216,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/av2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/av4.jpg": {
+		"ft": 16384,
+		"iS": 21486,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/av4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/av5.jpg": {
+		"ft": 16384,
+		"iS": 22972,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/av5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/av6.jpg": {
+		"ft": 16384,
+		"iS": 45465,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/av6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/di1.jpg": {
+		"ft": 16384,
+		"iS": 23167,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/di1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/di2.jpg": {
+		"ft": 16384,
+		"iS": 12543,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/di2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/servicios\/di3.jpg": {
+		"ft": 16384,
+		"iS": 17486,
+		"oA": 0,
+		"oAP": "\/img\/servicios\/di3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/_bombas.png": {
+		"ft": 32768,
+		"iS": 370558,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_bombas.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/_control.png": {
+		"ft": 32768,
+		"iS": 373730,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_control.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/_filtros.png": {
+		"ft": 32768,
+		"iS": 371246,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_filtros.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/_riego-agricola.png": {
+		"ft": 32768,
+		"iS": 407073,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_riego-agricola.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/_riego-areas-verdes.png": {
+		"ft": 32768,
+		"iS": 350945,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_riego-areas-verdes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/_tuberias.png": {
+		"ft": 32768,
+		"iS": 398161,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_tuberias.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/_valvulas.png": {
+		"ft": 32768,
+		"iS": 392655,
+		"oA": 1,
+		"oAP": "\/img\/slider\/_valvulas.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/slider\/agricola.jpg": {
+		"ft": 16384,
+		"iS": 228836,
+		"oA": 0,
+		"oAP": "\/img\/slider\/agricola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/areas_verdes.jpg": {
+		"ft": 16384,
+		"iS": 221093,
+		"oA": 0,
+		"oAP": "\/img\/slider\/areas_verdes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/bombas.jpg": {
+		"ft": 16384,
+		"iS": 219449,
+		"oA": 0,
+		"oAP": "\/img\/slider\/bombas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/control.jpg": {
+		"ft": 16384,
+		"iS": 201381,
+		"oA": 0,
+		"oAP": "\/img\/slider\/control.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/filtros.jpg": {
+		"ft": 16384,
+		"iS": 198697,
+		"oA": 0,
+		"oAP": "\/img\/slider\/filtros.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/servicios.jpg": {
+		"ft": 16384,
+		"iS": 251547,
+		"oA": 0,
+		"oAP": "\/img\/slider\/servicios.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/tuberias.jpg": {
+		"ft": 16384,
+		"iS": 210922,
+		"oA": 0,
+		"oAP": "\/img\/slider\/tuberias.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/slider\/valvulas.jpg": {
+		"ft": 16384,
+		"iS": 204527,
+		"oA": 0,
+		"oAP": "\/img\/slider\/valvulas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/solenoide.jpg": {
+		"ft": 16384,
+		"iS": 33454,
+		"oA": 0,
+		"oAP": "\/img\/solenoide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tablero.jpg": {
+		"ft": 16384,
+		"iS": 27258,
+		"oA": 0,
+		"oAP": "\/img\/tablero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tuberias-manguera-plana.jpg": {
+		"ft": 16384,
+		"iS": 47822,
+		"oA": 0,
+		"oAP": "\/img\/tuberias-manguera-plana.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/tuberias-tuberia-hdpe.jpg": {
+		"ft": 16384,
+		"iS": 33882,
+		"oA": 0,
+		"oAP": "\/img\/tuberias-tuberia-hdpe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tuberias-tuberia-polietileno.jpg": {
+		"ft": 16384,
+		"iS": 53509,
+		"oA": 0,
+		"oAP": "\/img\/tuberias-tuberia-polietileno.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/tuberias-tuberia-pvc.jpg": {
+		"ft": 16384,
+		"iS": 33577,
+		"oA": 0,
+		"oAP": "\/img\/tuberias-tuberia-pvc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/tuberias.jpg": {
+		"ft": 16384,
+		"iS": 150007,
+		"oA": 0,
+		"oAP": "\/img\/tuberias.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_canastillo.jpg": {
+		"ft": 16384,
+		"iS": 30880,
+		"oA": 0,
+		"oAP": "\/img\/valvula_canastillo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_caudalimetro.jpg": {
+		"ft": 16384,
+		"iS": 37173,
+		"oA": 0,
+		"oAP": "\/img\/valvula_caudalimetro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_compuerta.jpg": {
+		"ft": 16384,
+		"iS": 41798,
+		"oA": 0,
+		"oAP": "\/img\/valvula_compuerta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_con_flotador.jpg": {
+		"ft": 16384,
+		"iS": 63223,
+		"oA": 0,
+		"oAP": "\/img\/valvula_con_flotador.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_de_alivio_rapido.jpg": {
+		"ft": 16384,
+		"iS": 51744,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_alivio_rapido.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_de_bola.jpg": {
+		"ft": 16384,
+		"iS": 27050,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_bola.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_de_bronce.jpg": {
+		"ft": 16384,
+		"iS": 39239,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_bronce.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_de_cuchillo.jpg": {
+		"ft": 16384,
+		"iS": 39001,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_cuchillo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_de_globo.jpg": {
+		"ft": 16384,
+		"iS": 38853,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_globo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_de_pie.jpg": {
+		"ft": 16384,
+		"iS": 61997,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_pie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_de_pvc.jpg": {
+		"ft": 16384,
+		"iS": 35934,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_pvc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_de_retencion.jpg": {
+		"ft": 16384,
+		"iS": 45527,
+		"oA": 0,
+		"oAP": "\/img\/valvula_de_retencion.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_electrica.jpg": {
+		"ft": 16384,
+		"iS": 39341,
+		"oA": 0,
+		"oAP": "\/img\/valvula_electrica.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_mariposa.jpg": {
+		"ft": 16384,
+		"iS": 62682,
+		"oA": 0,
+		"oAP": "\/img\/valvula_mariposa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_piloto.jpg": {
+		"ft": 16384,
+		"iS": 36231,
+		"oA": 0,
+		"oAP": "\/img\/valvula_piloto.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_reductora_de_presion.jpg": {
+		"ft": 16384,
+		"iS": 64654,
+		"oA": 0,
+		"oAP": "\/img\/valvula_reductora_de_presion.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/valvula_sostenedora.jpg": {
+		"ft": 16384,
+		"iS": 50030,
+		"oA": 0,
+		"oAP": "\/img\/valvula_sostenedora.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvula_ventosa.jpg": {
+		"ft": 16384,
+		"iS": 49177,
+		"oA": 0,
+		"oAP": "\/img\/valvula_ventosa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/valvulas.jpg": {
+		"ft": 16384,
+		"iS": 170321,
+		"oA": 0,
+		"oAP": "\/img\/valvulas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/variador-frecuencia.jpg": {
+		"ft": 16384,
+		"iS": 32140,
+		"oA": 0,
+		"oAP": "\/img\/variador-frecuencia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/includes\/form_1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/includes\/form_1.php",
+		"oF": 0
+		},
+	"\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/inicio.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inicio.html",
+		"oF": 0
+		},
+	"\/javascript.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/javascript.html",
+		"oF": 0
+		},
+	"\/js\/_blocs.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/_blocs.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/blocs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/blocs-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/blocs.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/blocs.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/bootstrap.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/cssslidy.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/cssslidy-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/cssslidy.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/cssslidy.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/jquery-2.1.0.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/jquery-2.1.0.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/lightbox.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/lightbox-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/lightbox.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/lightbox.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/blocs-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/min\/min\/blocs-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/cssslidy-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/min\/min\/cssslidy-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/lightbox-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/min\/min\/lightbox-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/owl.carousel.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/owl.carousel-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/kit\/aspersor_automat.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/aspersor_automat.html",
+		"oF": 0
+		},
+	"\/kit\/aspersor_naandanjain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/aspersor_naandanjain.html",
+		"oF": 0
+		},
+	"\/kit\/aspersor_rain_bird.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/aspersor_rain_bird.html",
+		"oF": 0
+		},
+	"\/kit\/aspersor_riegos_costa.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/aspersor_riegos_costa.html",
+		"oF": 0
+		},
+	"\/kit\/aspersor_sime.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/aspersor_sime.html",
+		"oF": 0
+		},
+	"\/kit\/aspersor_vyrsa.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/aspersor_vyrsa.html",
+		"oF": 0
+		},
+	"\/kit\/bomba_soplante.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bomba_soplante.html",
+		"oF": 0
+		},
+	"\/kit\/bombas.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_cnp.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_cnp.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_durapool.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_durapool.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_injecta.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_injecta.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_ksb.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_ksb.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_pentax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_pentax.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_saer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_saer.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_salmson.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_salmson.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_subteck.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_subteck.html",
+		"oF": 0
+		},
+	"\/kit\/bombas_wilo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/bombas_wilo.html",
+		"oF": 0
+		},
+	"\/kit\/canastillo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/canastillo.html",
+		"oF": 0
+		},
+	"\/kit\/catalogo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/catalogo.html",
+		"oF": 0
+		},
+	"\/kit\/cinta_azud.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/cinta_azud.html",
+		"oF": 0
+		},
+	"\/kit\/cinta_cindrip.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/cinta_cindrip.html",
+		"oF": 0
+		},
+	"\/kit\/cinta_eurodrip.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/cinta_eurodrip.html",
+		"oF": 0
+		},
+	"\/kit\/cinta_irritec.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/cinta_irritec.html",
+		"oF": 0
+		},
+	"\/kit\/cinta_naandanjain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/cinta_naandanjain.html",
+		"oF": 0
+		},
+	"\/kit\/cinta_sky.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/cinta_sky.html",
+		"oF": 0
+		},
+	"\/kit\/control-baccara.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-baccara.html",
+		"oF": 0
+		},
+	"\/kit\/control-filtron.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-filtron.html",
+		"oF": 0
+		},
+	"\/kit\/control-galcon.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-galcon.html",
+		"oF": 0
+		},
+	"\/kit\/control-hunter.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-hunter.html",
+		"oF": 0
+		},
+	"\/kit\/control-irritrol.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-irritrol.html",
+		"oF": 0
+		},
+	"\/kit\/control-krain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-krain.html",
+		"oF": 0
+		},
+	"\/kit\/control-rainbird.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control-rainbird.html",
+		"oF": 0
+		},
+	"\/kit\/control.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/control.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-hunter-boquillas.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-boquillas.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-hunter-cuerpo-popup.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-hunter-golf.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-golf.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-hunter-rotor.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-hunter-rotor.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-irritrol-aspersordeimpacto.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-aspersordeimpacto.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-irritrol-boquillas.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-boquillas.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-irritrol-cuerpo-popup.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-irritrol-rotor.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-irritrol-rotor.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-krain-boquillas.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-krain-boquillas.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-krain-cuerpo-popup.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-krain-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-krain-rotor.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-krain-rotor.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-rainbird-aspersordeimpacto.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-aspersordeimpacto.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-rainbird-boquillas.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-boquillas.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-rainbird-cuerpo-popup.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-cuerpo-popup.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-rainbird-golf.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-golf.html",
+		"oF": 0
+		},
+	"\/kit\/emisor-rainbird-rotor.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisor-rainbird-rotor.html",
+		"oF": 0
+		},
+	"\/kit\/emisores-hunter.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisores-hunter.html",
+		"oF": 0
+		},
+	"\/kit\/emisores-irritrol.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisores-irritrol.html",
+		"oF": 0
+		},
+	"\/kit\/emisores-krain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisores-krain.html",
+		"oF": 0
+		},
+	"\/kit\/emisores-rain-bird.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/emisores-rain-bird.html",
+		"oF": 0
+		},
+	"\/kit\/estanque_hidroneumatico.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/estanque_hidroneumatico.html",
+		"oF": 0
+		},
+	"\/kit\/feedback.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/feedback.html",
+		"oF": 0
+		},
+	"\/kit\/filtros.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_amiad.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_amiad.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_azud.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_azud.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_hidroten.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_hidroten.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_javi.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_javi.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_palaplast.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_palaplast.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_stf.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_stf.html",
+		"oF": 0
+		},
+	"\/kit\/filtros_yamit.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/filtros_yamit.html",
+		"oF": 0
+		},
+	"\/kit\/fittings-hdpe-compresion.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/fittings-hdpe-compresion.html",
+		"oF": 0
+		},
+	"\/kit\/fittings-polietileno.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/fittings-polietileno.html",
+		"oF": 0
+		},
+	"\/kit\/fittings-pvc.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/fittings-pvc.html",
+		"oF": 0
+		},
+	"\/kit\/fittings-storz.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/fittings-storz.html",
+		"oF": 0
+		},
+	"\/kit\/footer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/footer.html",
+		"oF": 0
+		},
+	"\/kit\/gotero_eurodrip.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/gotero_eurodrip.html",
+		"oF": 0
+		},
+	"\/kit\/gotero_hydro.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/gotero_hydro.html",
+		"oF": 0
+		},
+	"\/kit\/gotero_irritec.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/gotero_irritec.html",
+		"oF": 0
+		},
+	"\/kit\/gotero_microflapper.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/gotero_microflapper.html",
+		"oF": 0
+		},
+	"\/kit\/gotero_naandanjain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/gotero_naandanjain.html",
+		"oF": 0
+		},
+	"\/kit\/gotero_palaplast.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/gotero_palaplast.html",
+		"oF": 0
+		},
+	"\/kit\/head.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/head.html",
+		"oF": 0
+		},
+	"\/kit\/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/kit\/javascript.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/javascript.html",
+		"oF": 0
+		},
+	"\/kit\/linea_azud.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/linea_azud.html",
+		"oF": 0
+		},
+	"\/kit\/linea_eurodrip.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/linea_eurodrip.html",
+		"oF": 0
+		},
+	"\/kit\/linea_gestiriego.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/linea_gestiriego.html",
+		"oF": 0
+		},
+	"\/kit\/linea_naandanjain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/linea_naandanjain.html",
+		"oF": 0
+		},
+	"\/kit\/linea_rivulis.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/linea_rivulis.html",
+		"oF": 0
+		},
+	"\/kit\/linea_vinilit.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/linea_vinilit.html",
+		"oF": 0
+		},
+	"\/kit\/menu-lateral.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/menu-lateral.html",
+		"oF": 0
+		},
+	"\/kit\/menu.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/menu.html",
+		"oF": 0
+		},
+	"\/kit\/microaspersor_naandanjain.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/microaspersor_naandanjain.html",
+		"oF": 0
+		},
+	"\/kit\/microaspersor_netafim.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/microaspersor_netafim.html",
+		"oF": 0
+		},
+	"\/kit\/microaspersor_tavlit.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/microaspersor_tavlit.html",
+		"oF": 0
+		},
+	"\/kit\/microjet_eco.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/microjet_eco.html",
+		"oF": 0
+		},
+	"\/kit\/microjet_olson.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/microjet_olson.html",
+		"oF": 0
+		},
+	"\/kit\/microjet_palaplast.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/microjet_palaplast.html",
+		"oF": 0
+		},
+	"\/kit\/modals.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/modals.html",
+		"oF": 0
+		},
+	"\/kit\/noticia_cambio_codigo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/noticia_cambio_codigo.html",
+		"oF": 0
+		},
+	"\/kit\/noticia_norma_chilena_diseno_riego.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/noticia_norma_chilena_diseno_riego.html",
+		"oF": 0
+		},
+	"\/kit\/noticia_norma_chilena_nch_399_2011.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/noticia_norma_chilena_nch_399_2011.html",
+		"oF": 0
+		},
+	"\/kit\/noticia_riego_por_goteo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/noticia_riego_por_goteo.html",
+		"oF": 0
+		},
+	"\/kit\/noticias.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/noticias.html",
+		"oF": 0
+		},
+	"\/kit\/piloto_regulador.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/piloto_regulador.html",
+		"oF": 0
+		},
+	"\/kit\/presostato.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/presostato.html",
+		"oF": 0
+		},
+	"\/kit\/riego-agricola.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/riego-agricola.html",
+		"oF": 0
+		},
+	"\/kit\/riego-areas-verdes.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/riego-areas-verdes.html",
+		"oF": 0
+		},
+	"\/kit\/sensor-humedad.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/sensor-humedad.html",
+		"oF": 0
+		},
+	"\/kit\/sensor-lluvia.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/sensor-lluvia.html",
+		"oF": 0
+		},
+	"\/kit\/sensor-nivel.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/sensor-nivel.html",
+		"oF": 0
+		},
+	"\/kit\/sensor.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/sensor.html",
+		"oF": 0
+		},
+	"\/kit\/solenoide.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/solenoide.html",
+		"oF": 0
+		},
+	"\/kit\/tablero.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tablero.html",
+		"oF": 0
+		},
+	"\/kit\/tuberias-fittings.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tuberias-fittings.html",
+		"oF": 0
+		},
+	"\/kit\/tuberias-hdpe.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tuberias-hdpe.html",
+		"oF": 0
+		},
+	"\/kit\/tuberias-manguera-plana.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tuberias-manguera-plana.html",
+		"oF": 0
+		},
+	"\/kit\/tuberias-pvc.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tuberias-pvc.html",
+		"oF": 0
+		},
+	"\/kit\/tuberias-tuberia-polietileno.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/tuberias-tuberia-polietileno.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_caudalimetro.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_caudalimetro.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_compuerta.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_compuerta.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_con_flotador.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_con_flotador.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_alivio_rapido.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_alivio_rapido.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_bola.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_bola.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_bronce.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_bronce.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_globo.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_globo.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_pie.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_pie.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_pvc.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_pvc.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_de_retencion.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_de_retencion.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_electrica.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_electrica.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_mariposa.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_mariposa.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_reductora_de_presion.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_reductora_de_presion.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_sostenedora.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_sostenedora.html",
+		"oF": 0
+		},
+	"\/kit\/valvula_ventosa.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvula_ventosa.html",
+		"oF": 0
+		},
+	"\/kit\/valvulas.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/valvulas.html",
+		"oF": 0
+		},
+	"\/kit\/variador-frecuencia.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/variador-frecuencia.html",
+		"oF": 0
+		},
+	"\/linea_azud.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linea_azud.html",
+		"oF": 0
+		},
+	"\/linea_de_riego_rivulis.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/linea_de_riego_rivulis.html",
+		"oF": 0
+		},
+	"\/linea_eurodrip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linea_eurodrip.html",
+		"oF": 0
+		},
+	"\/linea_gestiriego.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linea_gestiriego.html",
+		"oF": 0
+		},
+	"\/linea_gestirriego.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/linea_gestirriego.html",
+		"oF": 0
+		},
+	"\/linea_naandanjain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linea_naandanjain.html",
+		"oF": 0
+		},
+	"\/linea_rivulis.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linea_rivulis.html",
+		"oF": 0
+		},
+	"\/linea_vinilit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linea_vinilit.html",
+		"oF": 0
+		},
+	"\/menu-lateral.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/menu-lateral.html",
+		"oF": 0
+		},
+	"\/menu.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/menu.html",
+		"oF": 0
+		},
+	"\/microaspersor_naandanjain.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/microaspersor_naandanjain.html",
+		"oF": 0
+		},
+	"\/microaspersor_netafim.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/microaspersor_netafim.html",
+		"oF": 0
+		},
+	"\/microaspersor_tavlit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/microaspersor_tavlit.html",
+		"oF": 0
+		},
+	"\/microjet_eco.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/microjet_eco.html",
+		"oF": 0
+		},
+	"\/microjet_olson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/microjet_olson.html",
+		"oF": 0
+		},
+	"\/microjet_palaplast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/microjet_palaplast.html",
+		"oF": 0
+		},
+	"\/modals.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/modals.html",
+		"oF": 0
+		},
+	"\/noticia_cambio_codigo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/noticia_cambio_codigo.html",
+		"oF": 0
+		},
+	"\/noticia_norma_chilena_diseno_riego.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/noticia_norma_chilena_diseno_riego.html",
+		"oF": 0
+		},
+	"\/noticia_norma_chilena_nch_399_2011.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/noticia_norma_chilena_nch_399_2011.html",
+		"oF": 0
+		},
+	"\/noticia_riego_por_goteo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/noticia_riego_por_goteo.html",
+		"oF": 0
+		},
+	"\/noticias.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/noticias.html",
+		"oF": 0
+		},
+	"\/piloto_regulador.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/piloto_regulador.html",
+		"oF": 0
+		},
+	"\/presostato.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/presostato.html",
+		"oF": 0
+		},
+	"\/riego-agricola.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/riego-agricola.html",
+		"oF": 0
+		},
+	"\/riego-areas-verdes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/riego-areas-verdes.html",
+		"oF": 0
+		},
+	"\/sensor-humedad.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sensor-humedad.html",
+		"oF": 0
+		},
+	"\/sensor-lluvia.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sensor-lluvia.html",
+		"oF": 0
+		},
+	"\/sensor-nivel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sensor-nivel.html",
+		"oF": 0
+		},
+	"\/sensor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sensor.html",
+		"oF": 0
+		},
+	"\/solenoide.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/solenoide.html",
+		"oF": 0
+		},
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/tablero.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tablero.html",
+		"oF": 0
+		},
+	"\/tuberias-fittings.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tuberias-fittings.html",
+		"oF": 0
+		},
+	"\/tuberias-hdpe.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tuberias-hdpe.html",
+		"oF": 0
+		},
+	"\/tuberias-manguera-plana.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tuberias-manguera-plana.html",
+		"oF": 0
+		},
+	"\/tuberias-pvc.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tuberias-pvc.html",
+		"oF": 0
+		},
+	"\/tuberias-tuberia-polietileno.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/tuberias-tuberia-polietileno.html",
+		"oF": 0
+		},
+	"\/tuberias-tuberia-pvc.jpg": {
+		"ft": 16384,
+		"iS": 33577,
+		"oA": 0,
+		"oAP": "\/tuberias-tuberia-pvc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/valvula_caudalimetro.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_caudalimetro.html",
+		"oF": 0
+		},
+	"\/valvula_compuerta.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_compuerta.html",
+		"oF": 0
+		},
+	"\/valvula_con_flotador.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_con_flotador.html",
+		"oF": 0
+		},
+	"\/valvula_de_alivio_rapido.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_alivio_rapido.html",
+		"oF": 0
+		},
+	"\/valvula_de_bola.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_bola.html",
+		"oF": 0
+		},
+	"\/valvula_de_bronce.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_bronce.html",
+		"oF": 0
+		},
+	"\/valvula_de_globo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_globo.html",
+		"oF": 0
+		},
+	"\/valvula_de_pie.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_pie.html",
+		"oF": 0
+		},
+	"\/valvula_de_pvc.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_pvc.html",
+		"oF": 0
+		},
+	"\/valvula_de_retencion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_de_retencion.html",
+		"oF": 0
+		},
+	"\/valvula_electrica.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_electrica.html",
+		"oF": 0
+		},
+	"\/valvula_mariposa.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_mariposa.html",
+		"oF": 0
+		},
+	"\/valvula_reductora_de_presion.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_reductora_de_presion.html",
+		"oF": 0
+		},
+	"\/valvula_sostenedora.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_sostenedora.html",
+		"oF": 0
+		},
+	"\/valvula_ventosa.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvula_ventosa.html",
+		"oF": 0
+		},
+	"\/valvulas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/valvulas.html",
+		"oF": 0
+		},
+	"\/variador-frecuencia.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/variador-frecuencia.html",
+		"oF": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"creationDate": 512666172,
+	"displayValue": "hidra",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "meme-drunkArcher"
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigFileHandlingType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"async-to-module-method": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"decorators-legacy": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"es2015-arrow-functions": {
+			"active": 0
+			},
+		"es2015-block-scoped-functions": {
+			"active": 0
+			},
+		"es2015-block-scoping": {
+			"active": 0
+			},
+		"es2015-classes": {
+			"active": 0
+			},
+		"es2015-computed-properties": {
+			"active": 0
+			},
+		"es2015-constants": {
+			"active": 0
+			},
+		"es2015-destructuring": {
+			"active": 0
+			},
+		"es2015-duplicate-keys": {
+			"active": 0
+			},
+		"es2015-for-of": {
+			"active": 0
+			},
+		"es2015-function-name": {
+			"active": 0
+			},
+		"es2015-literals": {
+			"active": 0
+			},
+		"es2015-modules-amd": {
+			"active": 0
+			},
+		"es2015-modules-commonjs": {
+			"active": 0
+			},
+		"es2015-modules-systemjs": {
+			"active": 0
+			},
+		"es2015-modules-umd": {
+			"active": 0
+			},
+		"es2015-object-super": {
+			"active": 0
+			},
+		"es2015-parameters": {
+			"active": 0
+			},
+		"es2015-shorthand-properties": {
+			"active": 0
+			},
+		"es2015-spread": {
+			"active": 0
+			},
+		"es2015-sticky-regex": {
+			"active": 0
+			},
+		"es2015-template-literals": {
+			"active": 0
+			},
+		"es2015-typeof-symbol": {
+			"active": 0
+			},
+		"es2015-unicode-regex": {
+			"active": 0
+			},
+		"es3-member-expression-literals": {
+			"active": 0
+			},
+		"es3-property-literals": {
+			"active": 0
+			},
+		"es5-property-mutators": {
+			"active": 0
+			},
+		"eval": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-extensions": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-comments": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"syntax-async-generators": {
+			"active": 0
+			},
+		"syntax-class-properties": {
+			"active": 0
+			},
+		"syntax-decorators": {
+			"active": 0
+			},
+		"syntax-do-expressions": {
+			"active": 0
+			},
+		"syntax-export-extensions": {
+			"active": 0
+			},
+		"syntax-flow": {
+			"active": 0
+			},
+		"syntax-function-bind": {
+			"active": 0
+			},
+		"syntax-function-sent": {
+			"active": 0
+			},
+		"syntax-jsx": {
+			"active": 0
+			},
+		"syntax-object-rest-spread": {
+			"active": 0
+			},
+		"undeclared-variables-check": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			}
+		},
+	"babelPresetType": 193,
+	"babelRetainLines": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerAutoCreateInfoFile": 1,
+	"bowerInstallDevDependencies": 0,
+	"bowerSaveDependencies": 1,
+	"bowerSaveDevDependencies": 0,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
+			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-between-class-members": {
+			"active": 0,
+			"optionString": "'always', {exceptAfterSingleLine: false}"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-catch-shadow": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': false}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 1,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': false}"
+			},
+		"no-self-compare": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-template-curly-in-string": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-yield": {
+			"active": 0,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": ""
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 1,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"ieCompatibility": 1,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 3758088159
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 2,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"jsxMode": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 2,
+		"noImplicitAny": 0,
+		"preserveConstEnums": 0,
+		"removeComments": 0,
+		"suppressImplicitAnyIndexErrors": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}
